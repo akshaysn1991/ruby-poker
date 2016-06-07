@@ -15,3 +15,8 @@ Running Unit Tests
 >project- folder/test/hand.rb
 
 >project-folder/test/card.rb
+
+
+Also see
+--------------------------------
+https://en.wikipedia.org/wiki/List_of_poker_hands
